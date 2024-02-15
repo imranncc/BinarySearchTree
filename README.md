@@ -1,4 +1,4 @@
-# Binar Search Tree
+# Binary Search Tree
 
 This project demonstrates the implementation of a Binary Search Tree (BST) in C. The BST is a data structure that allows for efficient insertion, deletion, and searching of elements. This implementation provides functions for creating a new node, inserting nodes into the tree, and printing the elements in sorted order.
 
